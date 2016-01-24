@@ -15,6 +15,6 @@
 		
 ##Screenshots
 
-		![2048 achieved](2048.2.png "2048 achieved")
+		![2048 achieved](https://github.com/rakesh-malviya/2048JavaConsole/2048.2.png "2048 achieved")
 
-		![With controls	](2048.png "With controls")
+		![With controls	](https://github.com/rakesh-malviya/2048JavaConsole/2048.png "With controls")
