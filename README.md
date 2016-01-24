@@ -13,10 +13,5 @@
 		Move right : d
 		Exit       : x
 		
-##Screenshots
-
-			![2048 achieved](/../master/img/2048.png?raw=true)
-
-			![With controls	](/../master/img/2048.2.png?raw=true)
 			
 			
