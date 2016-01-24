@@ -12,3 +12,9 @@
 		Move left  : a
 		Move right : d
 		Exit       : x
+		
+##Screenshots
+
+		![2048 achieved](2048.2.png "Menu Bar Popover")
+
+		![With controls](2048.png "Settings Window")
