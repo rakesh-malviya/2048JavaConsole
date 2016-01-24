@@ -15,6 +15,6 @@
 		
 ##Screenshots
 
-		![2048 achieved](2048.2.png "2048 achieved")
+		![2048 achieved](2048.png?raw=true "2048 achieved")
 
-		![With controls	](2048.2.png "With controls")
+		![With controls	](2048.2.png?raw=true "With controls")
