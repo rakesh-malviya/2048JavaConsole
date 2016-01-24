@@ -15,6 +15,6 @@
 		
 ##Screenshots
 
-		![2048 achieved](2048.2.png "Menu Bar Popover")
+		![2048 achieved](2048.2.png "2048 achieved")
 
-		![With controls](2048.png "Settings Window")
+		![With controls	](2048.png "With controls")
