@@ -15,6 +15,6 @@
 		
 ##Screenshots
 
-		![2048 achieved](https://github.com/rakesh-malviya/2048JavaConsole/raw/master/img/2048.png)
+		![2048 achieved](https://raw.githubusercontent.com/rakesh-malviya/2048JavaConsole/master/img/2048.png)
 
-		![With controls	](https://github.com/rakesh-malviya/2048JavaConsole/raw/master/img/2048.2.png)
+		![With controls	](https://raw.githubusercontent.com/rakesh-malviya/2048JavaConsole/master/img/2048.2.png)
